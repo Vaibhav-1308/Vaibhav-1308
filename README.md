@@ -7,13 +7,13 @@
 I'm a passionate developer interested in embedded systems and robotics.
 
 - 🔭 I’m currently working on an agricultural robot for my final year college project.
-- 🌱 I’m currently learning advanced algorithms and machine learning.
+- 🌱 I’m currently learning RF circuit design and Firmware design.
 - 👯 I’m looking to collaborate on open-source electronics projects.
-- 🤔 I’m looking for help with integrating sensors into my robot.
-- 💬 Ask me about robotics and microcontrollers.
+- 🤔 I’m looking to gain more knowledge with Embedded hardware and Software.
+- 💬 Ask me about Circuit designing and Microcontrollers.
 - 📫 How to reach me: [Email](vaibhavnrupnarayan2021@.com) | [LinkedIn](https://www.linkedin.com/in/vaibhav-nrupnarayan-88b51022a/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love hiking and exploring new places.
+- ⚡ Fun fact: I love exploring new places and reading books.
 
 ### 🛠️ Languages and Tools
 
